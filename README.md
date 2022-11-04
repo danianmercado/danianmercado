@@ -22,18 +22,18 @@ Let's start talking about me:
 * ☠ Passionate about cybersecurity and hacking .🤪
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danian96&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danianmercado&layout=compact)
 
-![Danian's github stats](https://github-readme-stats.vercel.app/api?username=danian96&show_icons=true&count_private=true&include_all_commits=true&line_height=21&theme=react)
+![Danian's github stats](https://github-readme-stats.vercel.app/api?username=danianmercado&show_icons=true&count_private=true&include_all_commits=true&line_height=21&theme=react)
 
-![Danian's github stats](https://github-profile-trophy.vercel.app/?username=danian96&column=7)
+![Danian's github stats](https://github-profile-trophy.vercel.app/?username=danianmercado&column=7)
 
 
 ---
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
   <p align="center">
-    <a href= "https://github.com/danian96/">
+    <a href= "https://github.com/danianmercado/">
       <img src="https://img.icons8.com/material-outlined/27/000000/github.png"/>
     </a>
     <a href= "https://www.facebook.com/DaniloMercadoOudalova">
@@ -47,7 +47,7 @@ Let's start talking about me:
     </a>
   </p>
   <p align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=danian96.danian96" alt="visitor badge"/>       
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=danianmercado.danianmercado" alt="visitor badge"/>       
   </p>
 </p>
 
